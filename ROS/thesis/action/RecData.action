@@ -1,0 +1,7 @@
+uint32 nMeas    	# number of measurements
+uint32 label		# class label
+---
+Header header
+float32[] data		# measurement data
+---
+uint32 feedback 	# current measurement 

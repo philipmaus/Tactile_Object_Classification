@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="thesis" type="record_data_action_server.py" name="record_data_as_node" output="screen">  
+    </node>
+</launch>

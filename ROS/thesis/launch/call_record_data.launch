@@ -1,0 +1,4 @@
+<launch>
+    <arg name="class_label" default="16"/>
+    <node pkg="thesis" type="record_data_action_client.py" name="record_data_ac_node" output="screen" args="$(arg class_label)"/>
+</launch>

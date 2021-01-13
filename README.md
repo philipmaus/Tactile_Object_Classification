@@ -1,7 +1,9 @@
 Manual for tactile object classification with the Jaco arm on the Doro robot sensorized with 3 OptoForce sensors
 
 Philip Maus
+
 Assisstive Robotics Laboratory
+
 BioRobotics Institute Pontedera
 
 January 2021

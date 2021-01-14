@@ -7,7 +7,7 @@ Please find the attached manual.py for full information.
 
 ## About the work ##
 
-Philip Maus & Jaeseok Kim  
+Philip Maus, Jaeseok Kim, OliviaNocentini, Muhammad Zain Bashir, and Filippo Cavallo 
 Assisstive Robotics Laboratory, BioRobotics Institute Pontedera  
 January 2021
 

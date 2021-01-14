@@ -1,8 +1,10 @@
-Manual for tactile object classification with the Jaco arm on the Doro robot sensorized with 3 OptoForce sensors
+# Manual for tactile object classification with the Jaco arm on the Doro robot sensorized with 3 OptoForce sensors #
 
-Philip Maus
+![Alt text](/home/philip/Studium/Master/Pisa/Thesis/Manual/pics/doro_setup.png?raw=true "Title")
 
-Assisstive Robotics Laboratory
+## Philip Maus ##
+
+## Assisstive Robotics Laboratory ##
 
 BioRobotics Institute Pontedera
 
